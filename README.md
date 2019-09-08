@@ -1,6 +1,8 @@
 # Get Started with TypeScript
 
-Presentation materials for lunch & learn TypeScript workshop on 4th July 2019
+Code for the Lunch & Learn TypeScript workshop on 4th July 2019
+
+[Presentation in PDF](/TypeScript-Workshop.pdf)
 
 ## Prerequisites
 
