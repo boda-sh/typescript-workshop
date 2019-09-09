@@ -6,7 +6,7 @@ Code for the Lunch & Learn TypeScript workshop on 4th July 2019
 
 ## Prerequisites
 
-Editor: Visual Studio Code
+Tested on Visual Studio Code v1.38.0
 
 Install TypeScript globally through `npm`
 
